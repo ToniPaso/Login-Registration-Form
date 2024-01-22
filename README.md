@@ -1,4 +1,4 @@
-Welcome Page - Simple Login and Registration Form
+              Simple Login and Registration Form
 
 This project is a straightforward Welcome Page containing two forms: a Login form for existing users and a Registration form for new users. The entire layout is created using three essential web technologies: JavaScript, HTML, and CSS.
 
