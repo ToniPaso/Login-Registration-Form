@@ -2,7 +2,7 @@
 
 This project is a straightforward Welcome Page containing two forms: a Login form for existing users and a Registration form for new users. 
 
-The entire layout is created using three essential web technologies: HTML/CSS and JavaScript.
+The entire layout is created using three essential web technologies: HTML, CSS and JavaScript.
 
 What's Inside?
 
